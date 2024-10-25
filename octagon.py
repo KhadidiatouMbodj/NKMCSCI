@@ -1,5 +1,3 @@
-#name: NDEYE KHADIDIATOU MBODJ
-#email: NDEYE.KHADIDIATOU.MBODJ@MYHUNTER.CUNY.EDU
 #date: FEBRUARY 5, 2024
 #This program draws an octagon.
 
