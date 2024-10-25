@@ -1,5 +1,3 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
 #Date: 03/13/2024
 #This program loads an image, counts the number of pixels that are nearly white as an estimate for snow pack.
 
