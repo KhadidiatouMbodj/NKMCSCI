@@ -1,5 +1,5 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
+#Author:    Katherine St. John
+#Date:      August 2014
 #A program that uses command strings to control turtle drawing
 #Modified by:  Ndeye Khadidiatou Mbodj
 #Date: 03/13/2024
