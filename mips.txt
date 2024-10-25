@@ -1,5 +1,3 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: NDEYEKHADIDIATOU.mbodj48@myhunter.cuny.edu
 #My first MIPS program that prints: Hello, world!
 
 
