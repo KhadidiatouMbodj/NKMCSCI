@@ -1,5 +1,3 @@
-# Name: Ndeye Khadidiatou MBodj
-# Date: 08/04/2024
 #A template for a program that computes LIRR transit fares.
 
 
