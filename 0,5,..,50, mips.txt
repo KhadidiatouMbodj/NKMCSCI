@@ -1,5 +1,4 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: NDEYEKHADIDIATOU.mbodj48@myhunter.cuny.edu
+
 #My first MIPS program that prints: 0,5,...,50
 
 ADDI $s0, $zero, 0
