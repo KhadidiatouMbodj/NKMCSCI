@@ -1,6 +1,3 @@
-#name: Ndeye Khadidiatou Mbodj
-#email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
-#date: March 23rd, 2024
 #this program cuts images.
 import numpy as np
 import matplotlib.pyplot as plt
