@@ -1,7 +1,6 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
 #Date: 03/13/2024
 #This program prints plurals
+
 msg=input('Enter nouns:')
 x=msg.count(' ')+1
 s=0
