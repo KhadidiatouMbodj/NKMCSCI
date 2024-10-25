@@ -1,0 +1,6 @@
+#Name: Ndeye Khadidiatou Mbodj
+#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
+#Date: 03/13/2024
+#This program makes a circuit
+
+out= (not(in1 or in2))

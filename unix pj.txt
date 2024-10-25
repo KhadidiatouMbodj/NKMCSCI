@@ -1,0 +1,9 @@
+#Your name: Ndeye Khadidiatou Mbodj
+#Date: 04/22/2024
+#Shell script:  creates directories for project
+
+mkdir projectFiles
+cd projectFiles
+mkdir source
+mkdir data
+mkdir results
