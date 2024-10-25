@@ -1,5 +1,3 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
 #Date: 04/15/2024
 #A program that asks user for a string.
 
