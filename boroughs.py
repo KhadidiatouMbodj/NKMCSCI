@@ -1,6 +1,3 @@
-#Name: Ndeye Khadidiatou Mbodj
-#Email: ndeyekhadidiatou.mbodj48@myhunter.cuny.edu
-#Date: 03/21/2024
 #A program that prints borough stats.
 
 import pandas as pd
